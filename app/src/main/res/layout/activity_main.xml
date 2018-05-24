@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+   <com.example.ls.lsn31_gradient.MyLinGradient
+       android:layout_width="wrap_content"
+       android:textSize="23sp"
+       android:text="我爱你我的家我寿宁路设计费垃圾送"
+       android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+Paint画笔的高级技能
+渲染 Shader:
+      BitmapShader位图的图像渲染器
+      LinearGradient线性渲染
+      RadialGradient环形渲染
+      SweepGradient梯度渲染(扫描渲染)
+
+可以绘制图片,颜色块,文字
+canvas.drawCircle();
+canvas.drawRect();
+canvas.drawOval();
